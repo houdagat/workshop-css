@@ -1,0 +1,38 @@
+header{
+    
+    justify-content: left;
+    width: 100% ;
+    align-items: center;
+   
+}
+header h1 {
+    font-size: xx-large;
+    color: darkred;
+}
+header a {
+    font-size: xx-large;
+    color: darkblue;
+    margin-left: 300px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main iframe{
+    padding: 100px;
+    
+}
+main h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    padding: 5px;
+
+}
+form label{
+    color: chocolate;
+    font-size: larger;
+
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
